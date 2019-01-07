@@ -24,7 +24,7 @@ public class Person {
 		return instance;//최초 요청에서만 return해주고 그이후로는 객체생성 불가
 	}
 	public void showInfo() {
-		System.out.println("Person클래스의 showInfo()메서드!!");
+		System.out.println("나는 원격저장소에 있는 Person이야!!!!!!!!");
 	}
 
 }

@@ -15,7 +15,7 @@
 	String addr=request.getParameter("addr");
 %>
 	<hr>
-	<h2>현재일 : <%=s %></h2>
+	<h2>라라라라라라라라 : <%=s %></h2>
 	<p>주소 : <%=addr %></p>
 </body>
 </html>
